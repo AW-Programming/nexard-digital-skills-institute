@@ -16,14 +16,8 @@ export default function Header() {
       <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
-          <div className="flex items-center space-x-3">
-            <div className="w-12 h-12 bg-gradient-to-br from-blue-600 to-orange-500 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-2xl">N</span>
-            </div>
-            <div>
-              <h1 className="text-2xl font-bold text-gray-800">Nexard</h1>
-              <p className="text-xs text-orange-500 font-semibold">DIGITAL SKILLS INSTITUTE</p>
-            </div>
+          <div className="flex items-center">
+            <img src="/logo.png" alt="Nexard Digital Skills Institute" className="h-14 w-auto" />
           </div>
 
           {/* Desktop Navigation */}

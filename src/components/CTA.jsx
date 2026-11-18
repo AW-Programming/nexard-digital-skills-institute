@@ -9,7 +9,7 @@ export default function CTA() {
             Ready to Start Your Journey?
           </h2>
           <p className="text-xl text-orange-100 mb-8 max-w-2xl mx-auto">
-            Join the May 2026 intake and get 20% OFF if you're among the first 9 students!
+            Join the January 2027 intake and get 20% OFF if you're among the first 9 students!
             Don't miss this opportunity to transform your career.
           </p>
           

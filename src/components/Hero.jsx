@@ -15,7 +15,7 @@ export default function Hero() {
           {/* Left Content */}
           <div className="space-y-8">
             <div className="inline-block bg-orange-100 text-orange-600 px-4 py-2 rounded-full font-semibold text-sm">
-              🎉 MAY 2026 INTAKE ONGOING!
+              🎉 JANUARY 2027 INTAKE ONGOING!
             </div>
             
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-gray-900 leading-tight">
