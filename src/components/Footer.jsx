@@ -10,14 +10,8 @@ export default function Footer() {
         <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8">
           {/* Brand */}
           <div className="space-y-4">
-            <div className="flex items-center space-x-3">
-              <div className="w-12 h-12 bg-gradient-to-br from-blue-600 to-orange-500 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-2xl">N</span>
-              </div>
-              <div>
-                <h3 className="text-xl font-bold">Nexard</h3>
-                <p className="text-xs text-orange-400">DIGITAL SKILLS INSTITUTE</p>
-              </div>
+            <div className="inline-block bg-white rounded-lg p-2">
+              <img src="/logo.png" alt="Nexard Digital Skills Institute" className="h-12 w-auto" />
             </div>
             <p className="text-gray-400 text-sm leading-relaxed">
               Empowering the next generation of digital professionals with practical, job-oriented skills.
